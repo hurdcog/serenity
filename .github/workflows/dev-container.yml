@@ -37,3 +37,4 @@ jobs:
           imageName: ghcr.io/serenityos/serenity-devcontainer
           imageTag: base,latest
           push: always
+
